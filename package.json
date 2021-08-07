@@ -1,0 +1,23 @@
+{
+  "name": "ml_tensorflow",
+  "version": "1.0.0",
+  "description": "ML_tensorflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tupe12334/ML_tensorflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tupe12334/ML_tensorflow/issues"
+  },
+  "homepage": "https://github.com/tupe12334/ML_tensorflow#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.7.0"
+  }
+}
